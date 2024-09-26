@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-Domanais-navbar/static/css/main.f0e51d8c.css",
+    "main.js": "/ws101-Domanais-navbar/static/js/main.b1e209c7.js",
+    "index.html": "/ws101-Domanais-navbar/index.html",
+    "main.f0e51d8c.css.map": "/ws101-Domanais-navbar/static/css/main.f0e51d8c.css.map",
+    "main.b1e209c7.js.map": "/ws101-Domanais-navbar/static/js/main.b1e209c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e51d8c.css",
+    "static/js/main.b1e209c7.js"
+  ]
+}
